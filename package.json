@@ -14,7 +14,7 @@
     "browserslist": "^4.7.2",
     "caniuse-lite": "^1.0.30001008",
     "element-ui": "^2.6.3",
-    "highlight.js": "^9.15.6",
+    "highlight.js": "^10.1.2",
     "marked": "^0.6.1",
     "node-sass": "^4.13.0",
     "sass-loader": "^8.0.0",
