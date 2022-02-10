@@ -16,7 +16,7 @@
     "element-ui": "^2.6.3",
     "highlight.js": "^9.15.6",
     "marked": "^0.6.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.0",
     "vue": "^2.6.6",
     "vue-class-component": "^6.0.0",
